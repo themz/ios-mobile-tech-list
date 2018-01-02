@@ -1,13 +1,13 @@
 # ios-mobile-tech-list
 
-###Concurrency
--
-#####Operation Queue
+### Concurrency
+
+##### Operation Queue
 - NSOperationOueue
 - NSOperation
 - NSBlockOperation
 
-#####Grand Central Dispatch
+##### Grand Central Dispatch
 - DispatchQueue
 - DispatchGroup
 - DispatchSemaphore 
@@ -15,36 +15,45 @@
 - DispatchData
 - DispatchIO
 
-#####NSRunLoop
+##### NSRunLoop
 
-###Server communication
+### Server communication
   - Native
-    --URLSession
-    --URLConnection
+    -- URLSession
+    -- URLConnection
   - Framework
-    --Alamofier
+    -- Alamofier
   
-#####REST
-#####GraphQL
-#####Cloud Systems
+##### REST
+
+##### GraphQL
+
+##### Cloud Systems
   - AWS
   - Realm Mobile Platform
 
-#####Sockets
+##### Sockets
   - Native
   - Framework
 
+### Architecture
 
-###Architecture
-
-#####SOA
-#####Presentation Layer
+##### SOA
+##### Presentation Layer
   - MVC
   - MVP
   - MVVM
   - MVPM
   - MVVPM
   - VIPER
-  
-###Books
+ 
+ ## UI
+ -
+ ### Auto Layout
+ #### Size Classes
+
+## Push
+ 
+ 
+### Books
 
