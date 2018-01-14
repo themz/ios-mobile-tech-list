@@ -2,14 +2,16 @@
 
 ### Concurrency
 
+- [ Doc](https://developer.apple.com/library/content/documentation/General/Conceptual/ConcurrencyProgrammingGuide/OperationQueues/OperationQueues.html)
+
 ##### Operation Queue
-- OperationOueue
-- Operation
-- BlockOperation
+-  WWDC 15 [Advanced NSOperations](https://developer.apple.com/videos/play/wwdc2015/226/) 🎦
+- [Concurrency в Swift 3 и 4. Operation и OperationQueue](https://habrahabr.ru/post/335756/) 🇷🇺
 
 ##### Grand Central Dispatch
-- [ Doc](https://developer.apple.com/library/content/documentation/General/Conceptual/ConcurrencyProgrammingGuide/OperationQueues/OperationQueues.html)
+-  WWDC 14 [Power, Performance and Diagnostics: What's new in GCD and XPC](https://developer.apple.com/videos/play/wwdc2014/716/) 🎦
 - (Raywenderlich.com) Grand Central Dispatch Tutorial for Swift 3. Part: [[1]](https://www.raywenderlich.com/148513/grand-central-dispatch-tutorial-swift-3-part-1) [[2]](https://www.raywenderlich.com/148515/grand-central-dispatch-tutorial-swift-3-part-2)
+- [Многопоточность (concurrency) в Swift 3. GCD и Dispatch Queues](https://habrahabr.ru/post/320152/) 🇷🇺
 
 
 ##### Run Loop
@@ -60,7 +62,7 @@
  -
  ### Auto Layout
  #### Size Classes
- -  WWDC 17 [Size Classes and Core Components](https://developer.apple.com/videos/play/wwdc2017/812/)
+ -  WWDC 17 [Size Classes and Core Components](https://developer.apple.com/videos/play/wwdc2017/812/) 🎦
 
 ## Push
  
