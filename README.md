@@ -28,13 +28,20 @@
 ##### Foundation
 - 
 
-### Server communication
-  - [ Doc. Making HTTP and HTTPS Requests](https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/WorkingWithHTTPAndHTTPSRequests/WorkingWithHTTPAndHTTPSRequests.html#//apple_ref/doc/uid/TP40010220-CH8-SW1)
-  - Native
-    -- URLSession
-    -- URLConnection
-  - Framework
-    -- Alamofier
+### Networking
+- [ Doc. Making HTTP and HTTPS Requests](https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/WorkingWithHTTPAndHTTPSRequests/WorkingWithHTTPAndHTTPSRequests.html#//apple_ref/doc/uid/TP40010220-CH8-SW1)
+- [NSURLConnection vs NSURLSession](http://codingpan.com/2016/09/19/NSURLSession-vs-NSURLConnection.html)
+- [Почему NSURLSession лучше, чем NSURLConnection](https://habrahabr.ru/post/209736/) 🇷🇺
+-  WWDC 17 Advances in Networking, Part [[1]](https://developer.apple.com/videos/play/wwdc2017/707/) [[2]](https://developer.apple.com/videos/play/wwdc2017/709/) 🎦
+-  WWDC 16 [NSURLSession: New Features and Best Practices](https://developer.apple.com/videos/play/wwdc2016/711/) 🎦
+-  WWDC 15 [Networking with NSURLSession](https://developer.apple.com/videos/play/wwdc2015/711/) 🎦
+-  WWDC 14 [What's New in Foundation Networking](https://developer.apple.com/videos/play/wwdc2014/707/) 🎦
+
+##### Live stream
+-  WWDC 16 [What's New in HTTP Live Streaming](https://developer.apple.com/videos/play/wwdc2016/504/) 🎦
+
+##### Frameworks
+- Alamofier
   
 ##### REST
 
