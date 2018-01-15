@@ -29,6 +29,7 @@
 - 
 
 ### Server communication
+  - [ Doc. Making HTTP and HTTPS Requests](https://developer.apple.com/library/content/documentation/NetworkingInternetWeb/Conceptual/NetworkingOverview/WorkingWithHTTPAndHTTPSRequests/WorkingWithHTTPAndHTTPSRequests.html#//apple_ref/doc/uid/TP40010220-CH8-SW1)
   - Native
     -- URLSession
     -- URLConnection
