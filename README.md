@@ -74,6 +74,7 @@
 - [Основные практики обеспечения безопасности iOS-приложений](https://habrahabr.ru/company/redmadrobot/blog/349272/) 🇷🇺
 - [OWASP Mobile Security Project](https://www.owasp.org/index.php/OWASP_Mobile_Security_Project#tab=Top_10_Mobile_Risks)
 - [ Doc. iOS Security](https://www.apple.com/business/docs/iOS_Security_Guide.pdf) 📗
+- [Basic iOS Security: Keychain and Hashing](https://www.raywenderlich.com/185370/basic-ios-security-keychain-hashing)
 
 ## NFC
 
